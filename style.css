@@ -1,0 +1,28 @@
+li {
+  display: inline;
+}
+
+.black {
+  color: black;
+  background-color: black;
+}
+
+img {
+display: block;
+margin: auto;
+}
+
+h5 {
+  text-align: center;
+}
+
+#intro {
+  text-align: center;
+}
+
+ .map {
+        height: 400px;
+        width: 75%;
+        display: block;
+        margin:auto;
+      }
