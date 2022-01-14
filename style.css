@@ -1,3 +1,7 @@
+* {
+  padding: 0;
+  margin: 0;
+}
 li {
   display: inline;
 }
@@ -7,12 +11,18 @@ li {
   background-color: black;
 }
 
-img {
-display: block;
-margin: auto;
+ nav {
+display: flex;
+justify-content: center;
+align-items: center
 }
 
-h5 {
+img {
+  display: block;
+  margin: auto;
+}
+
+h5, h1 {
   text-align: center;
 }
 
